@@ -4,6 +4,33 @@ This is the **CodeJudge Mobile and Desktop app**. It lets you solve programming 
 
 This app uses **Kotlin Multiplatform (KMP)**, which means we write the code once, and it runs everywhere.
 
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Desktop (Windows/Linux/macOS)
+
+#### Problem List & Challenges
+![Desktop Homepage](./docs/screenshots/homepage-desktop.png)
+
+#### Code Editor with Dark Theme
+![Desktop Editor](./docs/screenshots/problem_editor-desktop.png)
+
+#### Success Verdict
+![Desktop Result](./docs/screenshots/submission_accepted-desktop.png)
+
+### 📱 Android App
+
+#### Mobile Home Screen
+![Android Homepage](./docs/screenshots/homepage-android.png)
+
+#### Coding on Mobile (Portrait)
+![Android Editor](./docs/screenshots/problem_editor_1-android.png)
+
+#### Submission Accepted!
+![Android Result](./docs/screenshots/submission_accepted-android.png)
+
 ---
 
 ## ✨ Features
@@ -18,7 +45,7 @@ This app uses **Kotlin Multiplatform (KMP)**, which means we write the code once
 
 ## 🛠️ Getting Started
 
-Before running this app, you **must** have the [CodeJudge Backend Server](../online-judge) running.
+Before running this app, you **must** have the [CodeJudge Backend Server](https://github.com/jamilxt/online-judge) running.
 
 ### 1. Requirements
 
@@ -50,7 +77,7 @@ Open your terminal in this folder and run:
 The app works as a "Client". It talks to the **CodeJudge Backend** to fetch problems and submit your code.
 
 - **Frontend (This project)**: The beautiful UI you see and interact with.
-- **Backend ([online-judge](../online-judge))**: The "Brain" that stores problems and actually runs your code safely.
+- **Backend ([online-judge](https://github.com/jamilxt/online-judge))**: The "Brain" that stores problems and actually runs your code safely.
 
 ---
 
@@ -58,4 +85,4 @@ The app works as a "Client". It talks to the **CodeJudge Backend** to fetch prob
 
 The backend is where all the magic happens! It's built with Spring Boot and supports Local or Docker execution modes.
 
-👉 **[Go to Backend Repository](../online-judge/README.md)**
+👉 **[Go to Backend Repository](https://github.com/jamilxt/online-judge)**
