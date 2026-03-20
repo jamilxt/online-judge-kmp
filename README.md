@@ -86,3 +86,18 @@ The app works as a "Client". It talks to the **CodeJudge Backend** to fetch prob
 The backend is where all the magic happens! It's built with Spring Boot and supports Local or Docker execution modes.
 
 👉 **[Go to Backend Repository](https://github.com/jamilxt/online-judge)**
+
+---
+
+## 👨 Developed By
+
+<a href="https://twitter.com/jamil_xt" target="_blank">
+  <img src="https://avatars.githubusercontent.com/jamilxt" width="90" align="left">
+</a>
+
+**Md Jamilur Rahman**
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/jamil_xt)
+[![Medium](https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white&style=for-the-badge)](https://medium.com/@jamilxt)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jamilxt/)
+[![Web](https://img.shields.io/badge/-Web-0073E6?logo=appveyor&logoColor=white&style=for-the-badge)](https://jamilxt.com/)
